@@ -19,7 +19,7 @@ int main(){
     }
     else {
       printf("Tails\n");
-      tcount;
+      tcount++;
     }
 
   }
