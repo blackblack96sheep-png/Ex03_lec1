@@ -7,7 +7,7 @@ int main(){
 
   int i;
   int hcount,tcount;
-  string name[20];
+  char name[20];
   hcount=tcount=0;
   srand((unsigned int)time(NULL));
   
