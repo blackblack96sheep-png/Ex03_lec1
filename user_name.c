@@ -24,7 +24,7 @@ scanf("%s".&name);
     }
     else {
       printf("Tails\n");
-      tcount;
+      tcount++;
     }
 
   }
