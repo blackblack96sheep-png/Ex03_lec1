@@ -28,8 +28,8 @@ scanf("%s".&name);
     }
 
   }
-  if(hcount>tcount)printf("You won\n");
-  else printf("You lost\n");
+  if(hcount>tcount)printf("%s won\n".name);
+  else printf("%s lost\n",name);
 
 
   return 0;
